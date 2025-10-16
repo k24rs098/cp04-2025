@@ -3,10 +3,10 @@
         background-color: skyblue;
     }
      button {
-        background-color: blue;
+        color: blue;
         font-family: Times;
         border-radius: 20px;
-        
+
     }
     
     #minuteStr {
