@@ -4,6 +4,7 @@
     }
      button {
         background-color: blue;
+        font-family: Times;
     }
     
     #minuteStr {
