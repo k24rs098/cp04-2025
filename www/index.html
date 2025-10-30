@@ -185,7 +185,7 @@
         audio.play();
 
     }
-
+     //Dアラーム
     function Dsound(){
         var audio = new Audio();
         audio.src = "pin.wav";
@@ -219,8 +219,8 @@
 
     // ButtonDがクリックされた時の処理
     function btnDClick(e){
-        alarm();
-        active = true;
+         Dsound();
+         active = false;
 
     }
     
